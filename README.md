@@ -1,0 +1,2 @@
+## A propos de cette application web 
+L'application web de gestion des achats d'une entreprise est un outil centralisé qui permet de gérer efficacement le processus d'achat et de contrôler les dépenses au sein de l'organisation. Elle offre une plateforme sécurisée et conviviale où les employés peuvent soumettre, approuver et suivre les demandes d'achat, tout en fournissant aux gestionnaires une visibilité complète sur les dépenses et les flux de travail liés aux achats
